@@ -1,5 +1,5 @@
 INSERT INTO folders
-  (name)
+  (folder_name)
 VALUES
   ('Chest'),
   ('Back'),
